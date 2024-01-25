@@ -1,0 +1,20 @@
+
+{
+   "type":"minecraft:crafting_shaped",
+   "replace": true,
+   "pattern":[
+      "sP"
+   ],
+   "key":{
+      "P":{
+         "item":"twilightforest:canopy_pressure_plate"
+      },
+      "s":{
+         "tag":"forge:tools/saws"
+      }
+   },
+   "result":{
+      "item":"twilightforest:canopy_button",
+      "count":6
+   }
+}

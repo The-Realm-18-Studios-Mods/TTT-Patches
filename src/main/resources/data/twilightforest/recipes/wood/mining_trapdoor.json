@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "replace": true,
+  "category": "redstone",
+  "key": {
+    "S": {
+      "item": "minecraft:stick"
+    },
+    "P": {
+      "item": "twilightforest:mining_slab"
+    }
+  },
+  "pattern": [
+    "PSP",
+    "SSS",
+    "PSP"
+  ],
+  "result": {
+    "count": 1,
+    "item": "twilightforest:mining_trapdoor"
+  },
+  "show_notification": true
+}

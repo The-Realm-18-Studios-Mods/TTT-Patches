@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "P": {
+      "item": "minecraft:ender_pearl"
+    },
+    "A": {
+      "item": "minecraft:amethyst_shard"
+    },
+    "G": {
+      "item": "gtceu:gold_rod"
+    },
+    "S": [
+      {
+        "item": "minecraft:stick"
+      }
+    ]
+  },
+  "pattern": [
+    " AP",
+    " SA",
+    "G  "
+  ],
+  "result": {
+    "item": "wizards:staff_arcane"
+  }
+}

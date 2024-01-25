@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "replace": true,
+  "key": {
+    "S": {
+      "item": "minecraft:string"
+    },
+    "M": {
+      "item": "minecraft:gold_ingot"
+    },
+    "G": {
+      "item": "gtceu:yellow_garnet_gem"
+    }
+  },
+  "pattern": [
+    " S ",
+    " M ",
+    " G "
+  ],
+  "result": {
+    "item": "jewelry:citrine_necklace"
+  }
+}

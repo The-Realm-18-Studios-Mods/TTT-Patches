@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "replace": true,
+  "pattern":
+  [
+    "BAB",
+    "B B",
+    "BAB"
+  ],
+
+  "key":
+  {
+    "A":
+    {
+      "item": "gtceu:double_iron_plate"
+    },
+
+    "B":
+    {
+      "item": "gtceu:glass_plate"
+    }
+  },
+
+  "result":
+  {
+    "item": "travelersbackpack:backpack_tank",
+    "count": 1
+  }
+}

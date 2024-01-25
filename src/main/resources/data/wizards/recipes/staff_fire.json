@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "P": {
+      "item": "minecraft:blaze_powder"
+    },
+    "N": {
+      "item": "minecraft:nether_brick"
+    },
+    "G": {
+      "item": "gtceu:gold_rod"
+    },
+    "S": [
+      {
+        "item": "minecraft:stick"
+      }
+    ]
+  },
+  "pattern": [
+    " NP",
+    " SN",
+    "G  "
+  ],
+  "result": {
+    "item": "wizards:staff_fire"
+  }
+}

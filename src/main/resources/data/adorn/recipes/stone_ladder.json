@@ -1,0 +1,23 @@
+{
+  "type":"minecraft:crafting_shaped",
+  "replace": true,
+  "pattern":[
+    "rmr",
+    "rrr",
+    "rhr"
+  ],
+  "key":{
+    "r":{
+      "tag":"c:stone_rods"
+    },
+    "m":{
+      "tag":"c:mallets"
+    },
+    "h":{
+      "tag":"c:hammers"
+    }
+  },
+  "result":{
+    "item":"adorn:stone_ladder"
+  }
+}

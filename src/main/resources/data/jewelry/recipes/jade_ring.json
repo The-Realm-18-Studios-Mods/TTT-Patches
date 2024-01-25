@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "replace": true,
+  "key": {
+    "M": {
+      "item": "minecraft:gold_ingot"
+    },
+    "G": {
+      "item": "gtceu:malachite_gem"
+    }
+  },
+  "pattern": [
+    " G ",
+    "M M",
+    " M "
+  ],
+  "result": {
+    "item": "jewelry:jade_ring"
+  }
+}

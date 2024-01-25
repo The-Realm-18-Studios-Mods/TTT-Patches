@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "replace": true,
+  "pattern": [
+    "FA",
+    "BS"
+  ],
+  "key": {
+    "A": {
+      "item": "gtceu:iron_double_plate"
+    },
+    "B": {
+      "item": "minecraft:stick"
+    },
+    "S": {
+      "tag": "c:hammers"
+    },
+    "F": {
+      "tag": "c:files"
+    }
+  },
+  "result": {
+    "item": "rechiseled:chisel"
+  }
+}

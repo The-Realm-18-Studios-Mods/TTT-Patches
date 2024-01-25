@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "replace": true,
+  "category": "redstone",
+  "key": {
+    "S": {
+      "item": "minecraft:stick"
+    },
+    "P": {
+      "item": "ars_nouveau:archwood_slab"
+    }
+  },
+  "pattern": [
+    "PSP",
+    "SSS",
+    "PSP"
+  ],
+  "result": {
+    "count": 1,
+    "item": "ars_nouveau:archwood_trapdoor"
+  },
+  "show_notification": true
+}

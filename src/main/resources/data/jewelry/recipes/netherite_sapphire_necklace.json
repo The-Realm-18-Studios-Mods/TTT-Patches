@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "replace": true,
+  "key": {
+    "T": {
+      "item": "minecraft:gold_nugget"
+    },
+    "S": {
+      "item": "minecraft:string"
+    },
+    "M": {
+      "item": "minecraft:netherite_ingot"
+    },
+    "G": {
+      "item": "gtceu:sapphire_gem"
+    }
+  },
+  "pattern": [
+    " S ",
+    "TMT",
+    " G "
+  ],
+  "result": {
+    "item": "jewelry:netherite_sapphire_necklace"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "replace": true,
+  "category": "building",
+  "ingredients": [
+    {
+      "tag": "twilightforest:transwood_logs"
+    }
+  ],
+  "result": {
+    "count": 2,
+    "item": "twilightforest:transformation_planks"
+  }
+}
